@@ -52,3 +52,11 @@ Use the following command to uninstall:
 ```
 msiexec /x windows_exporter-1.0.0-x64.msi /qn
 ```
+
+## SQL Exporter Binary 
+The SQL Exporter is used to scrape custom MSSQL Metrics. 
+
+Please us this link to download the windows binary - https://github.com/dalejrodriguez/Sysdig-Windows-Prometheus-Bundle/releases/tag/v1.0
+
+For configuration instructions go here - https://github.com/justwatchcom/sql_exporter
+```
